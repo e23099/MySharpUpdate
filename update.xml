@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<MySharpUpdate>
+  <update appID="NetCrypto">
+    <version>v22.05.23.27021</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.23.27021.zip</url>
+    <fileName>NetCrypto.exe</fileName>
+    <description>v22.05.23.27021: NetCrypto Init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\backtest\NetCrypto\NetCrypto\bin\Debug\">
+      <file>NetCrypto.exe</file>
+    </files>
+    <md5>3b4391e213e4014a03e9391387346b71</md5>
+  </update>
+</MySharpUpdate>
