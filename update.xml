@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.05.24.16742</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.24.16742.zip</url>
+    <version>v22.05.24.24831</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.24.24831.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.05.24.16742: NetCrypto Update test2
+    <description>v22.05.24.24831: 加入連線檢查
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Debug\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>82fa1d0473e9e5f0a1b90ae93cc160d3</md5>
+    <md5>88902c75f2aaaa34a7c1a49582738aea</md5>
   </update>
 </MySharpUpdate>
