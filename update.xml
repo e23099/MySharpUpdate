@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.05.28.25906</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.28.25906.zip</url>
+    <version>v22.05.28.28506</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.28.28506.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.05.28.25906: CryptoBDS Update
+    <description>v22.05.28.28506: NetCrypto: fix 參數拖曳
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Release\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>cfa88fd6202eff15e0419fb395231b54</md5>
+    <md5>c61ce47f477e444b9c0ea0b6938413e0</md5>
   </update>
 </MySharpUpdate>
