@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.05.28.15038</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.28.15038.zip</url>
+    <version>v22.05.28.25906</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.28.25906.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.05.28.15038: NetCrypto: Release 版
+    <description>v22.05.28.25906: CryptoBDS Update
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Release\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>47239e89e2ec9133c570dd2447a8b149</md5>
+    <md5>cfa88fd6202eff15e0419fb395231b54</md5>
   </update>
 </MySharpUpdate>
