@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.05.28.28506</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.28.28506.zip</url>
+    <version>v22.05.29.18058</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.29.18058.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.05.28.28506: NetCrypto: fix 參數拖曳
+    <description>v22.05.29.18058: fix CalcReportProfit
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Release\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>c61ce47f477e444b9c0ea0b6938413e0</md5>
+    <md5>f32ca6435766bee5835b3e618c719ece</md5>
   </update>
 </MySharpUpdate>
