@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.06.18.19327</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.06.18.19327.zip</url>
+    <version>v22.06.18.19509</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.06.18.19509.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.06.18.19327:
+    <description>v22.06.18.19509: BDS 周損
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Release\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>d7e119c693e0d9211ef9742db7c61ba5</md5>
+    <md5>dc9e43bde59841a862094bacd13ff7e9</md5>
   </update>
 </MySharpUpdate>
