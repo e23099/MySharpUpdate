@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.06.18.19509</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.06.18.19509.zip</url>
+    <version>v22.06.19.34274</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.06.19.34274.zip</url>
     <fileName>NetCrypto.exe</fileName>
     <description>v22.06.18.19509:
 </description>
@@ -11,6 +11,6 @@
     <files dir="..\backtest\NetCrypto\NetCrypto\bin\Release\">
       <file>NetCrypto.exe</file>
     </files>
-    <md5>dc9e43bde59841a862094bacd13ff7e9</md5>
+    <md5>fb857185c6e7ab1b08171d5a57455589</md5>
   </update>
 </MySharpUpdate>
