@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="NetCrypto">
-    <version>v22.06.28.27058</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.06.28.27058.zip</url>
+    <version>v22.08.01.24272</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.08.01.24272.zip</url>
     <fileName>NetCrypto.exe</fileName>
-    <description>v22.06.28.27058:
+    <description>v22.08.01.24272:
 </description>
     <launchArgs>
     </launchArgs>
@@ -12,6 +12,6 @@
       <file>NetCrypto.exe</file>
       <file>InputDataReader.dll</file>
     </files>
-    <md5>ee77d50bc373d63c011f1be043f4c902</md5>
+    <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
 </MySharpUpdate>
