@@ -15,16 +15,16 @@
     <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
   <update appID="VisualStock">
-    <version>v22.09.13.34474</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.13.34474.zip</url>
+    <version>v22.09.16.26734</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.16.26734.zip</url>
     <fileName>VisualStock.exe</fileName>
-    <description>v22.09.13.34474: init
+    <description>v22.09.16.26734: First Version
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\VisualStock\VisualStock\bin\Debug\">
       <file>VisualStock.exe</file>
     </files>
-    <md5>84e6bd66fc3b322cb6c7a380ab0c7c62</md5>
+    <md5>0b9eff9cd6cbc3e95b169e182d26a244</md5>
   </update>
 </MySharpUpdate>
