@@ -15,10 +15,10 @@
     <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
   <update appID="VisualStock">
-    <version>v22.09.20.18526</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.20.18526.zip</url>
+    <version>v22.09.20.35730</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.20.35730.zip</url>
     <fileName>VisualStock.exe</fileName>
-    <description>v22.09.20.18526: update FancyCandles
+    <description>v22.09.20.35730: update chartInfo in FancyCandle
 </description>
     <launchArgs>
     </launchArgs>
@@ -27,6 +27,6 @@
       <file>DavidTickReader.dll</file>
       <file>FancyCandles.dll</file>
     </files>
-    <md5>762f020b89f7a0374f574ee85f5e113b</md5>
+    <md5>f47f9d6e34388885d01061722c52b10c</md5>
   </update>
 </MySharpUpdate>
