@@ -15,10 +15,10 @@
     <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
   <update appID="VisualStock">
-    <version>v22.09.23.27855</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.23.27855.zip</url>
+    <version>v22.09.29.20892</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.29.20892.zip</url>
     <fileName>VisualStock.exe</fileName>
-    <description>v22.09.23.27855:
+    <description>v22.09.29.20892: 
 </description>
     <launchArgs>
     </launchArgs>
@@ -27,6 +27,6 @@
       <file>DavidTickReader.dll</file>
       <file>FancyCandles.dll</file>
     </files>
-    <md5>c30bd36bb88314e09e9be5b0c8236bca</md5>
+    <md5>28010b20b34a0026bfc08bc50eea3bae</md5>
   </update>
 </MySharpUpdate>
