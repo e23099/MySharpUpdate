@@ -15,10 +15,10 @@
     <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
   <update appID="VisualStock">
-    <version>v22.09.29.20892</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.29.20892.zip</url>
+    <version>v22.09.30.25962</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v22.09.30.25962.zip</url>
     <fileName>VisualStock.exe</fileName>
-    <description>v22.09.29.20892: 
+    <description>v22.09.30.25962: Add Moving Average to Volume Subgraph.
 </description>
     <launchArgs>
     </launchArgs>
@@ -26,7 +26,8 @@
       <file>VisualStock.exe</file>
       <file>DavidTickReader.dll</file>
       <file>FancyCandles.dll</file>
+      <file>clib.dll</file>
     </files>
-    <md5>28010b20b34a0026bfc08bc50eea3bae</md5>
+    <md5>b9e40e0e63722be79ea502261fccad50</md5>
   </update>
 </MySharpUpdate>
