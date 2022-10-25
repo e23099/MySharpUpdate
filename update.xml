@@ -30,4 +30,20 @@
     </files>
     <md5>e08c76d1e6f6a4cd44fd7db660afe13c</md5>
   </update>
+  <update appID="VisualStrategy">
+    <version>
+    </version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_.zip</url>
+    <fileName>VisualStock.exe</fileName>
+    <description>:
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\backtest\VisualStrategy\VisualStrategy\bin\Debug\">
+      <file>VisualStrategy.exe</file>
+      <file>FancyDataSource.dll</file>
+      <file>Strategy/Common.dll</file>
+    </files>
+    <md5>f4a5d1cee9e5712e1f5382a4b5fc1632</md5>
+  </update>
 </MySharpUpdate>
