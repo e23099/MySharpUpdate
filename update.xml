@@ -31,8 +31,8 @@
     <md5>e08c76d1e6f6a4cd44fd7db660afe13c</md5>
   </update>
   <update appID="VisualStrategy">
-    <version>v22.10.26.24463</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v22.10.26.24463.zip</url>
+    <version>v22.10.26.24728</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v22.10.26.24728.zip</url>
     <fileName>VisualStrategy.exe</fileName>
     <description>v22.10.26.24463:
 </description>
@@ -43,6 +43,6 @@
       <file>FancyDataSource.dll</file>
       <file>Strategy/Common.dll</file>
     </files>
-    <md5>f864885a03f56954898270017f16f067</md5>
+    <md5>7c07add2dd1a3d8ed3413863cfeb7253</md5>
   </update>
 </MySharpUpdate>
