@@ -31,20 +31,21 @@
     <md5>c7e0747af10f0884c581ff763f850630</md5>
   </update>
   <update appID="VisualStrategy">
-    <version>v22.11.19.27332</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v22.11.19.27332.zip</url>
+    <version>v22.12.28.05067</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v22.12.28.05067.zip</url>
     <fileName>VisualStrategy.exe</fileName>
-    <description>v22.11.19.27332:
+    <description>v22.12.28.05067:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\backtest\VisualStrategy\VisualStrategy\bin\Debug\">
+      <file>Config/DockPanel.config</file>
       <file>VisualStrategy.exe</file>
       <file>FancyDataSource.dll</file>
       <file>Strategy/Common.dll</file>
       <file>Xceed.Wpf.AvalonDock.dll</file>
       <file>Xceed.Wpf.Toolkit.dll</file>
     </files>
-    <md5>d3c90b70a1cbd22a877af15a70c5b32b</md5>
+    <md5>d760ea6fbd55d3c563421b60ba747614</md5>
   </update>
 </MySharpUpdate>
