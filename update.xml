@@ -31,10 +31,10 @@
     <md5>c7e0747af10f0884c581ff763f850630</md5>
   </update>
   <update appID="VisualStrategy">
-    <version>v23.01.14.38886</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v23.01.14.38886.zip</url>
+    <version>v23.01.15.12112</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v23.01.15.12112.zip</url>
     <fileName>VisualStrategy.exe</fileName>
-    <description>v23.01.14.38886:
+    <description>v23.01.15.12112:
 </description>
     <launchArgs>
     </launchArgs>
@@ -46,6 +46,6 @@
       <file>Xceed.Wpf.AvalonDock.dll</file>
       <file>Xceed.Wpf.Toolkit.dll</file>
     </files>
-    <md5>12a56802aa830e2c8fdd5a98f78c7f7b</md5>
+    <md5>58718e15c660f0cc093bd14b04bf3233</md5>
   </update>
 </MySharpUpdate>
