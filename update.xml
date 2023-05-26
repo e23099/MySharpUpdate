@@ -31,10 +31,10 @@
     <md5>c7e0747af10f0884c581ff763f850630</md5>
   </update>
   <update appID="VisualStrategy">
-    <version>v23.05.23.27690</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v23.05.23.27690.zip</url>
+    <version>v23.05.26.29216</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStrategy/VisualStrategy_v23.05.26.29216.zip</url>
     <fileName>VisualStrategy.exe</fileName>
-    <description>v23.05.23.27690:
+    <description>v23.05.26.29216:
 </description>
     <launchArgs>
     </launchArgs>
@@ -43,6 +43,6 @@
       <file>VisualStrategy.exe</file>
       <file>DataProvider.dll</file>
     </files>
-    <md5>3c237778569e7a097e39afd038f41e10</md5>
+    <md5>e49f3932fa1190c50084e71db056debe</md5>
   </update>
 </MySharpUpdate>
