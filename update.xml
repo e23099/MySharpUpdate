@@ -46,10 +46,10 @@
     <md5>e49f3932fa1190c50084e71db056debe</md5>
   </update>
   <update appID="TradeReport">
-    <version>v23.06.10.04480</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/TradeReport/TradeReport_v23.06.10.04480.zip</url>
+    <version>v23.06.12.32981</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/TradeReport/TradeReport_v23.06.12.32981.zip</url>
     <fileName>TradeReport.exe</fileName>
-    <description>v23.06.10.04480:
+    <description>v23.06.12.32981:
 </description>
     <launchArgs>
     </launchArgs>
@@ -57,6 +57,6 @@
       <file>TradeReport.exe</file>
       <file>DataProvider.dll</file>
     </files>
-    <md5>a853b52324635e6d84df9be9fb7ce89e</md5>
+    <md5>35a9b51d295a0045ad387a1f921c8c48</md5>
   </update>
 </MySharpUpdate>
