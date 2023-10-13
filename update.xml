@@ -15,10 +15,10 @@
     <md5>e4f408e40903463b77b942b8977b7330</md5>
   </update>
   <update appID="VisualStock">
-    <version>v23.07.18.01235</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v23.07.18.01235.zip</url>
+    <version>v23.10.13.37856</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VisualStock/VisualStock_v23.10.13.37856.zip</url>
     <fileName>VisualStock.exe</fileName>
-    <description>v23.07.18.01235:
+    <description>v23.10.13.37856:
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>FancyCandles.dll</file>
       <file>clib.dll</file>
     </files>
-    <md5>5fd6723adcbe5e4bd46524592e22889c</md5>
+    <md5>63832bad4e8a53747df8d25dc6e12b7a</md5>
   </update>
   <update appID="VisualStrategy">
     <version>v23.10.02.38430</version>
