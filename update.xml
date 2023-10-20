@@ -59,4 +59,18 @@
     </files>
     <md5>2fd953b52dad7ad2c7b2abc9123fe065</md5>
   </update>
+  <update appID="CyData">
+    <version>
+    </version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/CyData/CyData_.zip</url>
+    <fileName>TradeReport.exe</fileName>
+    <description>:first v
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\data\CyData\CyData\bin\Debug\net6.0-windows">
+      <file>CyData.exe</file>
+    </files>
+    <md5>218724f26d68f9a2ee543930efe200f3</md5>
+  </update>
 </MySharpUpdate>
