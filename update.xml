@@ -60,10 +60,10 @@
     <md5>2fd953b52dad7ad2c7b2abc9123fe065</md5>
   </update>
   <update appID="CyData">
-    <version>v23.10.21.27831</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/CyData/CyData_v23.10.21.27831.zip</url>
+    <version>v23.10.30.39131</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/CyData/CyData_v23.10.30.39131.zip</url>
     <fileName>CyData.exe</fileName>
-    <description>v23.10.21.27831:
+    <description>v23.10.30.39131:
 </description>
     <launchArgs>
     </launchArgs>
@@ -71,6 +71,6 @@
       <file>CyData.exe</file>
       <file>CyData.dll</file>
     </files>
-    <md5>1dd9029d30c61888d4b7045dd8bac063</md5>
+    <md5>87e02db9447f15c59a1c062094a33aaa</md5>
   </update>
 </MySharpUpdate>
