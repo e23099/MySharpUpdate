@@ -70,6 +70,7 @@
     <files dir="..\data\CyData\CyData\bin\Debug\net6.0-windows">
       <file>CyData.exe</file>
       <file>CyData.dll</file>
+	  <file>CyMapper.dll</file>
     </files>
     <md5>742abc5704de91708058a6c5af7022df</md5>
   </update>
