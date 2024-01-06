@@ -71,6 +71,10 @@
       <file>CyData.exe</file>
       <file>CyData.dll</file>
       <file>CyMapper.dll</file>
+	  <file>SharpUpdate.dll</file>
+	  <file>Microsoft.Extensions.DependencyInjection.dll</file>
+	  <file>Microsoft.Extensions.DependencyInjection.Abstractions.dll</file>
+	  <file>LiteDB.dll</file>
     </files>
     <md5>a9cf254a5431ee7588a8b8c059fc77d0</md5>
   </update>
