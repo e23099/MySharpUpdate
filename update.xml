@@ -79,10 +79,10 @@
     <md5>0781e48891c61da18274a86a6a071e62</md5>
   </update>
   <update appID="ScheduleOrder">
-    <version>v24.01.13.10269</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/ScheduleOrder/ScheduleOrder_v24.01.13.10269.zip</url>
+    <version>v24.01.13.11082</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/ScheduleOrder/ScheduleOrder_v24.01.13.11082.zip</url>
     <fileName>ScheduleOrder.exe</fileName>
-    <description>v24.01.13.10269:
+    <description>v24.01.13.11082:
 </description>
     <launchArgs>
     </launchArgs>
@@ -91,6 +91,6 @@
       <file>ScheduleOrder.dll</file>
       <file>SharpUpdate.dll</file>
     </files>
-    <md5>e062060c6abb9c4d570f95e8afebd7c2</md5>
+    <md5>4b738cd7932c71206a64b0546c1a4ce0</md5>
   </update>
 </MySharpUpdate>
