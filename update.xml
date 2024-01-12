@@ -79,11 +79,10 @@
     <md5>0781e48891c61da18274a86a6a071e62</md5>
   </update>
   <update appID="ScheduleOrder">
-    <version>
-    </version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/ScheduleOrder/ScheduleOrder_.zip</url>
-    <fileName>CyData.exe</fileName>
-    <description>:
+    <version>v24.01.13.10269</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/ScheduleOrder/ScheduleOrder_v24.01.13.10269.zip</url>
+    <fileName>ScheduleOrder.exe</fileName>
+    <description>v24.01.13.10269:
 </description>
     <launchArgs>
     </launchArgs>
