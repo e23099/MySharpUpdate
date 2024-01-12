@@ -78,4 +78,20 @@
     </files>
     <md5>0781e48891c61da18274a86a6a071e62</md5>
   </update>
+  <update appID="ScheduleOrder">
+    <version>
+    </version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/ScheduleOrder/ScheduleOrder_.zip</url>
+    <fileName>CyData.exe</fileName>
+    <description>:
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\trading\ScheduleOrder\bin\Debug\net6.0-windows">
+      <file>ScheduleOrder.exe</file>
+      <file>ScheduleOrder.dll</file>
+      <file>SharpUpdate.dll</file>
+    </files>
+    <md5>e062060c6abb9c4d570f95e8afebd7c2</md5>
+  </update>
 </MySharpUpdate>
