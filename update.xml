@@ -93,4 +93,23 @@
     </files>
     <md5>4b738cd7932c71206a64b0546c1a4ce0</md5>
   </update>
+  <update appID="VxTrader">
+    <version>v24.02.14.38981</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VxTrader/VxTrader_v24.02.14.38981.zip</url>
+    <fileName>jack.exe</fileName>
+    <description>v24.02.14.38981: init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\trading\VxTrader\VxTrader\bin\Debug\net8.0-windows">
+      <file>jack.exe</file>
+      <file>jack.dll</file>
+      <file>SharpUpdate.dll</file>
+      <file>CyBrokerLib.dll</file>
+      <file>CyStrategy.dll</file>
+      <file>CommonWpf.dll</file>
+      <file>NLog.config</file>
+    </files>
+    <md5>bb3928af1a2038d8b857ae030eafda00</md5>
+  </update>
 </MySharpUpdate>
