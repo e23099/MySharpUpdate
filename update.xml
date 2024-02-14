@@ -94,10 +94,10 @@
     <md5>4b738cd7932c71206a64b0546c1a4ce0</md5>
   </update>
   <update appID="VxTrader">
-    <version>v24.02.15.01000</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/VxTrader/VxTrader_v24.02.15.01000.zip</url>
+    <version>v24.02.15.06375</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/VxTrader/VxTrader_v24.02.15.06375.zip</url>
     <fileName>jack.exe</fileName>
-    <description>v24.02.15.01000:
+    <description>v24.02.15.06375:
 </description>
     <launchArgs>
     </launchArgs>
@@ -110,6 +110,6 @@
       <file>CommonWpf.dll</file>
       <file>NLog.config</file>
     </files>
-    <md5>d969278e19c6459b2ff3f9c7aa3353dd</md5>
+    <md5>532b9b9f8399cf1b1741d0983c570c76</md5>
   </update>
 </MySharpUpdate>
