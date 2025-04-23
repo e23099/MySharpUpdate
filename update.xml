@@ -60,10 +60,10 @@
     <md5>2fd953b52dad7ad2c7b2abc9123fe065</md5>
   </update>
   <update appID="CyData">
-    <version>v25.04.23.31688</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/CyData/CyData_v25.04.23.31688.zip</url>
+    <version>v25.04.23.32486</version>
+    <url>https://github.com/e23099/MySharpUpdate/raw/main/CyData/CyData_v25.04.23.32486.zip</url>
     <fileName>CyData.exe</fileName>
-    <description>v25.04.23.31688:
+    <description>v25.04.23.32486:
 </description>
     <launchArgs>
     </launchArgs>
@@ -76,7 +76,7 @@
       <file>Microsoft.Extensions.DependencyInjection.Abstractions.dll</file>
       <file>LiteDB.dll</file>
     </files>
-    <md5>c8b0772c069ea4a80805ae9127977442</md5>
+    <md5>127a1b6dc890928ab673d186c230919b</md5>
   </update>
   <update appID="ScheduleOrder">
     <version>v24.01.13.11082</version>
